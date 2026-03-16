@@ -81,7 +81,7 @@ O sistema utiliza uma tabela chamada **livros**.
 
 ⚙️ Configuração do Projeto
 1️⃣ Clonar o repositório
-git clone https://github.com/Gabrielsilv/sistema-biblioteca-java-postgresql.git
+
 
 
 2️⃣ Criar o banco de dados
@@ -166,7 +166,7 @@ Containerização com Docker
 Desenvolvido por Gabriel Vieira
 
 GitHub
-https://github.com/Gabrielsilv
+https:   https://github.com/Gabrielsilv
 
 📜 Licença
 
